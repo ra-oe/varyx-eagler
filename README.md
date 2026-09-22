@@ -1,2 +1,2 @@
 # varyx-eagler
-eaglercraft clients for varyx network
+# THIS REPO DOES NOT INCLUDE CLIENTS TO COMPLY WITH GITHUB TOS!
